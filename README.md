@@ -1,6 +1,13 @@
 # get_you_monet
 
-A new Flutter project.
+O projeto é uma simples tela de login.
+
+Foi proposto na 2 aula turma 2 MasterClass Flutterando.
+
+### #flutter
+### #flutterando
+### #masterclass
+### #turma2
 
 ## Getting Started
 

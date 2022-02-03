@@ -10,10 +10,10 @@ class AppWidget extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'Flutter Demo',
+      title: 'Get Yuo Money Master Class',
       theme: ThemeData(
     
-        primarySwatch: Colors.blue,
+        primarySwatch: Colors.purple,
       ),
       home: const LoginPage(),
     );
